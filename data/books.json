@@ -69,6 +69,16 @@
     "genre": "Blaulicht Tagebücher",
     "featured": false
   },
+{
+   "title": "Notfallsanitäter Azubi Tagebuch",
+    "subtitle": "Design 4",
+    "image": "images/books/NSAT_4.webp",
+    "amazon": "https://amzn.to/3RAH92u",
+    "badge": "",
+    "rating": 5,
+    "genre": "Blaulicht Tagebücher",
+    "featured": false
+  },
   {
     "title": "Rettungssanitäter Tagebuch",
     "subtitle": "Design 1",
@@ -100,11 +110,31 @@
     "genre": "Blaulicht Tagebücher",
     "featured": false
   },
+ {
+    "title": "Rettungssanitäter Tagebuch",
+    "subtitle": "Design 4",
+    "image": "images/books/RST_4.webp",
+    "amazon": "https://amzn.to/4wtnIYF",
+    "badge": "",
+    "rating": 5,
+    "genre": "Blaulicht Tagebücher",
+    "featured": false
+  },
    {
     "title": "Pflegekraft Tagebuch",
     "subtitle": "Design 3",
     "image": "images/books/PF_3.webp",
     "amazon": "https://amzn.to/3QNYZi9",
+    "badge": "",
+    "rating": 5,
+    "genre": "Blaulicht Tagebücher",
+    "featured": false
+  },
+   {
+    "title": "Pflegekraft Tagebuch",
+    "subtitle": "Design 4",
+    "image": "images/books/PF_4.webp",
+    "amazon": "https://amzn.to/4wfjYJr",
     "badge": "",
     "rating": 5,
     "genre": "Blaulicht Tagebücher",
@@ -125,6 +155,36 @@
     "subtitle": "Design 1",
     "image": "images/books/PF_1.webp",
     "amazon": "https://amzn.to/3RB8n93",
+    "badge": "",
+    "rating": 5,
+    "genre": "Blaulicht Tagebücher",
+    "featured": false
+  },
+{
+    "title": "Pflegekraft Azubi Tagebuch",
+    "subtitle": "Design 1",
+    "image": "images/books/PFA_1.webp",
+    "amazon": "https://amzn.to/4c7DLD0",
+    "badge": "",
+    "rating": 5,
+    "genre": "Blaulicht Tagebücher",
+    "featured": false
+  },
+{
+    "title": "Pflegekraft Azubi Tagebuch",
+    "subtitle": "Design 2",
+    "image": "images/books/PFA_2.webp",
+    "amazon": "https://amzn.to/4vXuK6R",
+    "badge": "",
+    "rating": 5,
+    "genre": "Blaulicht Tagebücher",
+    "featured": false
+  },
+{
+    "title": "Pflegekraft Azubi Tagebuch",
+    "subtitle": "Design 3",
+    "image": "images/books/PFA_3.webp",
+    "amazon": "https://amzn.to/4bhWtrt",
     "badge": "",
     "rating": 5,
     "genre": "Blaulicht Tagebücher",
