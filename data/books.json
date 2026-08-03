@@ -239,5 +239,15 @@
     "rating": 5,
     "genre": "Blaulicht Tagebücher",
     "featured": false
+  },
+      {
+    "title": "Feuerwehrfrau Tagebuch",
+    "subtitle": "Design 4",
+    "image": "images/books/FWF_4.webp",
+    "amazon": "https://amzn.to/4z1qs15",
+    "badge": "",
+    "rating": 5,
+    "genre": "Blaulicht Tagebücher",
+    "featured": false
   }
 ]
