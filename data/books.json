@@ -120,6 +120,16 @@
     "genre": "Blaulicht Tagebücher",
     "featured": false
   },
+        {
+    "title": "Pflegekraft Tagebuch",
+    "subtitle": "Design 4",
+    "image": "images/books/PF_4.webp",
+    "amazon": "https://amzn.to/4wfjYJr",
+    "badge": "",
+    "rating": 5,
+    "genre": "Blaulicht Tagebücher",
+    "featured": false
+  },
    {
     "title": "Pflegekraft Tagebuch",
     "subtitle": "Design 3",
@@ -130,16 +140,7 @@
     "genre": "Blaulicht Tagebücher",
     "featured": false
   },
-   {
-    "title": "Pflegekraft Tagebuch",
-    "subtitle": "Design 4",
-    "image": "images/books/PF_4.webp",
-    "amazon": "https://amzn.to/4wfjYJr",
-    "badge": "",
-    "rating": 5,
-    "genre": "Blaulicht Tagebücher",
-    "featured": false
-  },
+
   {
     "title": "Pflegekraft Tagebuch",
     "subtitle": "Design 2",
